@@ -1,0 +1,9 @@
+in the time of Legend, and the early first age, there was but only four magic traditions, the four elemental forms of magic.
+
+**Flameweaver**: Fire is a powerful element in any battle, and Flameweavers are expert users of it. They are often attached to infantry units, where they can use their magic to create walls of fire, burn enemy fortifications, or even ignite entire battlefields. Flameweavers can also use their fire magic to create smoke screens or distract enemy troops, giving their own army an advantage.
+
+**Tidesingers**: Water is just as important as fire, especially when it comes to naval warfare. Tidesingers are experts in using water magic to manipulate the seas and tides, which can be a game-changer in a naval battle. They can create massive waves to capsize enemy ships, create whirlpools to trap or damage them, or even summon sea monsters to attack enemy vessels. Tidesingers are usually attached to a ship or fleet, where they can use their magic to give their own ships an advantage or disrupt enemy naval operations.
+
+**Stonesculptor**: Earth magic is particularly useful during sieges, where the terrain and fortifications are key factors. Stonesculptors can use their magic to create or destroy walls, create tunnels, or even cause earthquakes to damage enemy structures. They are usually attached to the infantry, where they can use their magic to help breach enemy defenses and support their own troops.
+
+**Skydancer**: Wind magic is often overlooked, but Skydancers are expert users of it. They can create powerful gusts of wind to blow away enemy projectiles or even knock over troops. They can also create tornados to wreak havoc among enemy formations or use their magic to enhance their own troops' mobility. Skydancers are usually attached to a ship or fleet, where they can use their magic to aid in navigation or to disrupt enemy vessels.

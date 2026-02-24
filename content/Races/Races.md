@@ -1,0 +1,6 @@
+[[Dragons]]
+[[Elves]]
+[[Dwarfs]]
+[[Giants]]
+[[Orcs]]
+[[Humans]]
